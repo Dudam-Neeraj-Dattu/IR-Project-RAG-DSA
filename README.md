@@ -1,0 +1,1 @@
+# This is the repo for Information Retrieval Course project (RAG DSA)
