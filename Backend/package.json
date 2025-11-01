@@ -7,12 +7,16 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js",
       "seed:import": "node src/seed/seeder.js -i",
-      "seed:destroy": "node src/seed/seeder.js -d"
+      "seed:destroy": "node src/seed/seeder.js -d",
+      "seed:embeddings": "node src/seed/generate_embeddings.js"
    },
    "author": "Neerajdattu Dudam",
    "license": "ISC",
    "description": "",
    "dependencies": {
+      "@google/generative-ai": "^0.24.1",
+      "@langchain/core": "^1.0.2",
+      "@langchain/google-genai": "^1.0.0",
       "dotenv": "^17.2.3",
       "express": "^5.1.0",
       "mongoose": "^8.19.2"

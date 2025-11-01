@@ -27,6 +27,10 @@ const problemSchema = new mongoose.Schema(
          required: [true, 'Difficulty is required'],
          enum: ['easy', 'medium', 'hard'], // Ensures only these values are allowed
       },
+      problemEmbedding: {
+         type: [Number], // Array of numbers for the embedding vector
+         default: [],
+      },
    },
    {
       timestamps: true, // Automatically adds createdAt and updatedAt fields
