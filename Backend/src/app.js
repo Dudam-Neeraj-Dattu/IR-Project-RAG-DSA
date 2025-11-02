@@ -14,7 +14,11 @@ app.use(express.urlencoded({ extended: true, limit: '16kb' }));
 app.use(cookieParser());
 
 app.get('/', (req, res) => {
-   res.send('Welcome to the LoveCppDSA Backend!');
+   res.send('Welcome to the RAG DSA Backend!');
 })
+
+import problemRouter from './routes/problem.route.js';
+
+app.use('/api/v1/problems', problemRouter);
 
 export default app;
