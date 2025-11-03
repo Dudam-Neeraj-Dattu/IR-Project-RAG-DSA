@@ -1,3 +1,4 @@
-Backend/.env
-Backend/node_modules
-Backend/src/data/problemData.json
+backend/.env
+backend/node_modules
+backend/src/data/problemData.json
+frontend/node_modules

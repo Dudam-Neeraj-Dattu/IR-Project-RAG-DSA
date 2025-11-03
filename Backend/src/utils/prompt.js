@@ -11,12 +11,14 @@ const createSearchPrompt = (retrievedDocs, query) => {
       .join('\n\n');
 
    const prompt = `
-    You are an expert DSA tutor. A user has a question, and I have found some relevant documents from a database of DSA problems. Your task is to answer the user's question based *only* on the provided sources.
+    You are an expert DSA tutor. A user has a question. Use the following relevant documents to provide a comprehensive, accurate, and helpful answer.
 
-    - Do not use any external knowledge.
-    - If the sources do not contain the answer, say "I'm sorry, but I couldn't find a relevant answer in the provided documents."
-    - Be concise and helpful.
-    - Cite your sources at the end of your answer, like [Source 1] or [Source 1, 3].
+    INSTRUCTIONS:
+    - Your tone should be that of a helpful expert.
+    - Synthesize the information from the sources to form a single, high-quality answer.
+    - **Format your entire answer in GitHub-flavored Markdown.** (Use bullet points, bold text, etc., for readability).
+    - **DO NOT** use phrases like "Based on the provided documents..." or "The sources say...". Present the information directly as your own explanation.
+    - You **MUST** cite the relevant sources by appending [Source 1], [Source 2, 5], etc., to the end of the sentences or paragraphs they support.
 
     ---
     USER'S QUESTION:
