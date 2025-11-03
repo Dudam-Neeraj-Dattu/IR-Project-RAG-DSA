@@ -1,0 +1,2925 @@
+[
+  {
+    "query": "how do i use sliding window?",
+    "groundTruth": [
+      48,
+      96,
+      100,
+      149,
+      218
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 100,
+        "problemName": "Sliding Window Maximum",
+        "score": 0.8261326551437378
+      },
+      {
+        "serialNumber": 149,
+        "problemName": "Smallest Range From K Sorted List",
+        "score": 0.8083040714263916
+      },
+      {
+        "serialNumber": 96,
+        "problemName": "First negative integer in every window of size K",
+        "score": 0.8082598447799683
+      },
+      {
+        "serialNumber": 218,
+        "problemName": "Chocolate Distribution Problem",
+        "score": 0.8069609999656677
+      },
+      {
+        "serialNumber": 48,
+        "problemName": "Permutation in String",
+        "score": 0.8035874962806702
+      },
+      {
+        "serialNumber": 145,
+        "problemName": "K-th Largest Sum Subarray",
+        "score": 0.7837624549865723
+      },
+      {
+        "serialNumber": 193,
+        "problemName": "Pizza with 3n Slices",
+        "score": 0.7833418846130371
+      },
+      {
+        "serialNumber": 98,
+        "problemName": "First Non-Repeating character in stream",
+        "score": 0.7786999940872192
+      },
+      {
+        "serialNumber": 148,
+        "problemName": "Median in a stream",
+        "score": 0.7778102159500122
+      },
+      {
+        "serialNumber": 198,
+        "problemName": "Longest Arithmetic Subsequence of Given Difference",
+        "score": 0.7756000757217407
+      }
+    ]
+  },
+  {
+    "query": "what's the difference between BFS and DFS in graph?",
+    "groundTruth": [
+      126,
+      155,
+      159,
+      160,
+      161,
+      162,
+      169,
+      170
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 161,
+        "problemName": "Cycle Detection In Undirected Graph",
+        "score": 0.8448408246040344
+      },
+      {
+        "serialNumber": 163,
+        "problemName": "Topological Sort",
+        "score": 0.8353428244590759
+      },
+      {
+        "serialNumber": 160,
+        "problemName": "DFS Traversal",
+        "score": 0.8348191380500793
+      },
+      {
+        "serialNumber": 169,
+        "problemName": "Bridges In A Graph",
+        "score": 0.8343459367752075
+      },
+      {
+        "serialNumber": 170,
+        "problemName": "Articulation Points in Graphs",
+        "score": 0.8321919441223145
+      },
+      {
+        "serialNumber": 162,
+        "problemName": "Detect Cycle In A Directed Graph",
+        "score": 0.8311014175415039
+      },
+      {
+        "serialNumber": 171,
+        "problemName": "Count Strongly Connected Components",
+        "score": 0.8302414417266846
+      },
+      {
+        "serialNumber": 164,
+        "problemName": "Shortest path in an unweighted graph",
+        "score": 0.8295347690582275
+      },
+      {
+        "serialNumber": 126,
+        "problemName": "Burning Tree",
+        "score": 0.823683500289917
+      },
+      {
+        "serialNumber": 159,
+        "problemName": "BFS in Graph",
+        "score": 0.8226141333580017
+      }
+    ]
+  },
+  {
+    "query": "how's bfs in graph is different from bfs in trees?",
+    "groundTruth": [
+      104,
+      159,
+      161,
+      162
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 164,
+        "problemName": "Shortest path in an unweighted graph",
+        "score": 0.8595647811889648
+      },
+      {
+        "serialNumber": 159,
+        "problemName": "BFS in Graph",
+        "score": 0.8527114391326904
+      },
+      {
+        "serialNumber": 126,
+        "problemName": "Burning Tree",
+        "score": 0.8480851650238037
+      },
+      {
+        "serialNumber": 161,
+        "problemName": "Cycle Detection In Undirected Graph",
+        "score": 0.8447424173355103
+      },
+      {
+        "serialNumber": 163,
+        "problemName": "Topological Sort",
+        "score": 0.8326866626739502
+      },
+      {
+        "serialNumber": 169,
+        "problemName": "Bridges In A Graph",
+        "score": 0.8306196928024292
+      },
+      {
+        "serialNumber": 170,
+        "problemName": "Articulation Points in Graphs",
+        "score": 0.8293756246566772
+      },
+      {
+        "serialNumber": 118,
+        "problemName": "Diagonal Traversal",
+        "score": 0.8254647254943848
+      },
+      {
+        "serialNumber": 116,
+        "problemName": "Right View",
+        "score": 0.8227550387382507
+      },
+      {
+        "serialNumber": 104,
+        "problemName": "Level Order Traversal",
+        "score": 0.8224582672119141
+      }
+    ]
+  },
+  {
+    "query": "how do i reverse a linked list?",
+    "groundTruth": [
+      40,
+      54,
+      64,
+      66,
+      73,
+      74
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 64,
+        "problemName": "Reverse a Linked List",
+        "score": 0.8739923238754272
+      },
+      {
+        "serialNumber": 74,
+        "problemName": "Add Number Linked Lists",
+        "score": 0.8397529125213623
+      },
+      {
+        "serialNumber": 73,
+        "problemName": "Palindrome Linked List",
+        "score": 0.836039662361145
+      },
+      {
+        "serialNumber": 95,
+        "problemName": "Queue Reversal",
+        "score": 0.8334095478057861
+      },
+      {
+        "serialNumber": 9,
+        "problemName": "Reverse an Array",
+        "score": 0.8329692482948303
+      },
+      {
+        "serialNumber": 66,
+        "problemName": "Reverse List In K Groups",
+        "score": 0.8305683135986328
+      },
+      {
+        "serialNumber": 76,
+        "problemName": "Merge Sort Linked List",
+        "score": 0.8288141489028931
+      },
+      {
+        "serialNumber": 97,
+        "problemName": "Reverse first K element of Queue",
+        "score": 0.8236626386642456
+      },
+      {
+        "serialNumber": 136,
+        "problemName": "Flatten BST To A Sorted List",
+        "score": 0.8232741951942444
+      },
+      {
+        "serialNumber": 69,
+        "problemName": "Remove duplicates from a sorted Doubly Linked List",
+        "score": 0.821016788482666
+      }
+    ]
+  },
+  {
+    "query": "what is dynamic programming?",
+    "groundTruth": [
+      51,
+      52,
+      173,
+      174,
+      175,
+      176,
+      177,
+      182,
+      183,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      207
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 187,
+        "problemName": "Minimum Score Triangulation of Polygon",
+        "score": 0.8410161137580872
+      },
+      {
+        "serialNumber": 200,
+        "problemName": "Guess Number Higher or Lower II",
+        "score": 0.8326574563980103
+      },
+      {
+        "serialNumber": 193,
+        "problemName": "Pizza with 3n Slices",
+        "score": 0.8305361866950989
+      },
+      {
+        "serialNumber": 182,
+        "problemName": "0 1 Knapsack",
+        "score": 0.8295011520385742
+      },
+      {
+        "serialNumber": 209,
+        "problemName": "Edit Distance",
+        "score": 0.8292311429977417
+      },
+      {
+        "serialNumber": 177,
+        "problemName": "Maximum sum of non-adjacent elements",
+        "score": 0.8277318477630615
+      },
+      {
+        "serialNumber": 201,
+        "problemName": "Minimum Cost Tree From Leaf Values",
+        "score": 0.8264725208282471
+      },
+      {
+        "serialNumber": 207,
+        "problemName": "Longest Common Subsequence",
+        "score": 0.824730634689331
+      },
+      {
+        "serialNumber": 199,
+        "problemName": "Unique Binary Search Trees",
+        "score": 0.8244965076446533
+      },
+      {
+        "serialNumber": 180,
+        "problemName": "Count derangements",
+        "score": 0.8229837417602539
+      }
+    ]
+  },
+  {
+    "query": "when should I use binary search on answer?",
+    "groundTruth": [
+      33,
+      34,
+      35
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 33,
+        "problemName": "Book Allocation Problem",
+        "score": 0.8227211236953735
+      },
+      {
+        "serialNumber": 34,
+        "problemName": "Aggressive Cows",
+        "score": 0.820173978805542
+      },
+      {
+        "serialNumber": 35,
+        "problemName": "Painter’s Partition Problem",
+        "score": 0.8138560056686401
+      },
+      {
+        "serialNumber": 53,
+        "problemName": "Binary Search",
+        "score": 0.8133664131164551
+      },
+      {
+        "serialNumber": 32,
+        "problemName": "Square Root of an Integer",
+        "score": 0.806781530380249
+      },
+      {
+        "serialNumber": 25,
+        "problemName": "Search in a 2D Matrix I",
+        "score": 0.8024109601974487
+      },
+      {
+        "serialNumber": 29,
+        "problemName": "Peak in a Mountain Array",
+        "score": 0.8021512031555176
+      },
+      {
+        "serialNumber": 26,
+        "problemName": "Search in a 2D Matrix II",
+        "score": 0.8017786741256714
+      },
+      {
+        "serialNumber": 31,
+        "problemName": "Search in a rotated & Sorted array",
+        "score": 0.8002911806106567
+      },
+      {
+        "serialNumber": 133,
+        "problemName": "LCA of Two Nodes In A BST",
+        "score": 0.800207257270813
+      }
+    ]
+  },
+  {
+    "query": "how to detect a cycle in a linked list",
+    "groundTruth": [
+      67,
+      68
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 68,
+        "problemName": "Detect and Remove Loop",
+        "score": 0.8728966116905212
+      },
+      {
+        "serialNumber": 67,
+        "problemName": "Circularly Linked",
+        "score": 0.86888587474823
+      },
+      {
+        "serialNumber": 162,
+        "problemName": "Detect Cycle In A Directed Graph",
+        "score": 0.8492598533630371
+      },
+      {
+        "serialNumber": 161,
+        "problemName": "Cycle Detection In Undirected Graph",
+        "score": 0.8430378437042236
+      },
+      {
+        "serialNumber": 73,
+        "problemName": "Palindrome Linked List",
+        "score": 0.8398921489715576
+      },
+      {
+        "serialNumber": 70,
+        "problemName": "Remove Duplicates From an Unsorted Linked List",
+        "score": 0.8335123062133789
+      },
+      {
+        "serialNumber": 12,
+        "problemName": "Duplicates in Array",
+        "score": 0.8322168588638306
+      },
+      {
+        "serialNumber": 65,
+        "problemName": "Middle Of Linked List",
+        "score": 0.8295864462852478
+      },
+      {
+        "serialNumber": 76,
+        "problemName": "Merge Sort Linked List",
+        "score": 0.8227567076683044
+      },
+      {
+        "serialNumber": 69,
+        "problemName": "Remove duplicates from a sorted Doubly Linked List",
+        "score": 0.8166012763977051
+      }
+    ]
+  },
+  {
+    "query": "how to find a loop in a graph",
+    "groundTruth": [
+      161,
+      162,
+      163
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 161,
+        "problemName": "Cycle Detection In Undirected Graph",
+        "score": 0.8452829718589783
+      },
+      {
+        "serialNumber": 162,
+        "problemName": "Detect Cycle In A Directed Graph",
+        "score": 0.8449546098709106
+      },
+      {
+        "serialNumber": 169,
+        "problemName": "Bridges In A Graph",
+        "score": 0.8268393278121948
+      },
+      {
+        "serialNumber": 170,
+        "problemName": "Articulation Points in Graphs",
+        "score": 0.8221468925476074
+      },
+      {
+        "serialNumber": 171,
+        "problemName": "Count Strongly Connected Components",
+        "score": 0.8209233283996582
+      },
+      {
+        "serialNumber": 68,
+        "problemName": "Detect and Remove Loop",
+        "score": 0.8143088817596436
+      },
+      {
+        "serialNumber": 160,
+        "problemName": "DFS Traversal",
+        "score": 0.8093394041061401
+      },
+      {
+        "serialNumber": 12,
+        "problemName": "Duplicates in Array",
+        "score": 0.8057959079742432
+      },
+      {
+        "serialNumber": 159,
+        "problemName": "BFS in Graph",
+        "score": 0.8026793003082275
+      },
+      {
+        "serialNumber": 88,
+        "problemName": "The Celebrity Problem",
+        "score": 0.8020480275154114
+      }
+    ]
+  },
+  {
+    "query": "compare bubble sort and merge sort",
+    "groundTruth": [
+      37,
+      56,
+      57
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 37,
+        "problemName": "Bubble Sort",
+        "score": 0.8510513305664062
+      },
+      {
+        "serialNumber": 56,
+        "problemName": "Merge Sort",
+        "score": 0.8341325521469116
+      },
+      {
+        "serialNumber": 138,
+        "problemName": "Merge Two BSTs",
+        "score": 0.8269263505935669
+      },
+      {
+        "serialNumber": 142,
+        "problemName": "Merge two binary Max heaps",
+        "score": 0.8192273378372192
+      },
+      {
+        "serialNumber": 76,
+        "problemName": "Merge Sort Linked List",
+        "score": 0.8155511617660522
+      },
+      {
+        "serialNumber": 17,
+        "problemName": "Merge 2 sorted arrays",
+        "score": 0.8071815967559814
+      },
+      {
+        "serialNumber": 72,
+        "problemName": "Merge Two Sorted Linked Lists",
+        "score": 0.8045408725738525
+      },
+      {
+        "serialNumber": 146,
+        "problemName": "Merge K Sorted Arrays",
+        "score": 0.8019671440124512
+      },
+      {
+        "serialNumber": 77,
+        "problemName": "Flatten A Linked List",
+        "score": 0.8003289699554443
+      },
+      {
+        "serialNumber": 38,
+        "problemName": "Insertion Sort",
+        "score": 0.7989884614944458
+      }
+    ]
+  },
+  {
+    "query": "what are some medium difficulty two pointer problems?",
+    "groundTruth": [
+      12,
+      15,
+      16,
+      19,
+      43,
+      47,
+      48
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 12,
+        "problemName": "Duplicates in Array",
+        "score": 0.8374003767967224
+      },
+      {
+        "serialNumber": 15,
+        "problemName": "Triplet sum",
+        "score": 0.8360224962234497
+      },
+      {
+        "serialNumber": 18,
+        "problemName": "Move zeroes to end",
+        "score": 0.8354548215866089
+      },
+      {
+        "serialNumber": 14,
+        "problemName": "Pair Sum",
+        "score": 0.8349548578262329
+      },
+      {
+        "serialNumber": 78,
+        "problemName": "Two Stacks",
+        "score": 0.8318812251091003
+      },
+      {
+        "serialNumber": 65,
+        "problemName": "Middle Of Linked List",
+        "score": 0.8313159942626953
+      },
+      {
+        "serialNumber": 13,
+        "problemName": "Array Intersection",
+        "score": 0.8312087655067444
+      },
+      {
+        "serialNumber": 100,
+        "problemName": "Sliding Window Maximum",
+        "score": 0.8307029008865356
+      },
+      {
+        "serialNumber": 76,
+        "problemName": "Merge Sort Linked List",
+        "score": 0.8296301960945129
+      },
+      {
+        "serialNumber": 148,
+        "problemName": "Median in a stream",
+        "score": 0.828584611415863
+      }
+    ]
+  },
+  {
+    "query": "how to find the shortest path in a weighted graph with negative edges",
+    "groundTruth": [
+      166,
+      172
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 165,
+        "problemName": "Shortest path in Weighted Directed Acyclic Graph",
+        "score": 0.8652659058570862
+      },
+      {
+        "serialNumber": 172,
+        "problemName": "Bellman Ford",
+        "score": 0.8586951494216919
+      },
+      {
+        "serialNumber": 166,
+        "problemName": "Dijkstra's shortest path",
+        "score": 0.8438887596130371
+      },
+      {
+        "serialNumber": 164,
+        "problemName": "Shortest path in an unweighted graph",
+        "score": 0.8279526233673096
+      },
+      {
+        "serialNumber": 168,
+        "problemName": "Minimum Spanning Tree",
+        "score": 0.8148102760314941
+      },
+      {
+        "serialNumber": 167,
+        "problemName": "Prim's MST",
+        "score": 0.8089075684547424
+      },
+      {
+        "serialNumber": 162,
+        "problemName": "Detect Cycle In A Directed Graph",
+        "score": 0.8059195280075073
+      },
+      {
+        "serialNumber": 187,
+        "problemName": "Minimum Score Triangulation of Polygon",
+        "score": 0.8048256635665894
+      },
+      {
+        "serialNumber": 99,
+        "problemName": "Circular tour",
+        "score": 0.8023849725723267
+      },
+      {
+        "serialNumber": 171,
+        "problemName": "Count Strongly Connected Components",
+        "score": 0.7939343452453613
+      }
+    ]
+  },
+  {
+    "query": "give me some examples of backtracking problems",
+    "groundTruth": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      155,
+      156,
+      157
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 63,
+        "problemName": "Rat in a Maze Problem",
+        "score": 0.8310856819152832
+      },
+      {
+        "serialNumber": 155,
+        "problemName": "Rat In A Maze",
+        "score": 0.8276814818382263
+      },
+      {
+        "serialNumber": 62,
+        "problemName": "Permutations of a String",
+        "score": 0.8245143890380859
+      },
+      {
+        "serialNumber": 156,
+        "problemName": "N-Queens",
+        "score": 0.8194057941436768
+      },
+      {
+        "serialNumber": 59,
+        "problemName": "Subsequences of String",
+        "score": 0.8179749846458435
+      },
+      {
+        "serialNumber": 60,
+        "problemName": "Letter Combinations of a Phone Number",
+        "score": 0.8118453025817871
+      },
+      {
+        "serialNumber": 61,
+        "problemName": "Permutations",
+        "score": 0.8111555576324463
+      },
+      {
+        "serialNumber": 157,
+        "problemName": "Sudoku Solver",
+        "score": 0.8098796010017395
+      },
+      {
+        "serialNumber": 160,
+        "problemName": "DFS Traversal",
+        "score": 0.8061160445213318
+      },
+      {
+        "serialNumber": 58,
+        "problemName": "Subsets",
+        "score": 0.8047650456428528
+      }
+    ]
+  },
+  {
+    "query": "how can I use a stack to solve a string problem?",
+    "groundTruth": [
+      45,
+      46,
+      80,
+      84,
+      85
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 84,
+        "problemName": "Redundant Brackets",
+        "score": 0.8704509735107422
+      },
+      {
+        "serialNumber": 46,
+        "problemName": "Remove all adjacent duplicates",
+        "score": 0.8586955070495605
+      },
+      {
+        "serialNumber": 85,
+        "problemName": "Minimum bracket Reversal",
+        "score": 0.8540513515472412
+      },
+      {
+        "serialNumber": 80,
+        "problemName": "Valid Parenthesis",
+        "score": 0.8458242416381836
+      },
+      {
+        "serialNumber": 45,
+        "problemName": "Remove all occurrences of substring",
+        "score": 0.8378610014915466
+      },
+      {
+        "serialNumber": 95,
+        "problemName": "Queue Reversal",
+        "score": 0.837154746055603
+      },
+      {
+        "serialNumber": 91,
+        "problemName": "Special Stack",
+        "score": 0.8349701166152954
+      },
+      {
+        "serialNumber": 97,
+        "problemName": "Reverse first K element of Queue",
+        "score": 0.8342247009277344
+      },
+      {
+        "serialNumber": 150,
+        "problemName": "Rearrange string",
+        "score": 0.8276932239532471
+      },
+      {
+        "serialNumber": 83,
+        "problemName": "Sort a Stack",
+        "score": 0.8269397020339966
+      }
+    ]
+  },
+  {
+    "query": "what is a monotonic stack and what is it used for?",
+    "groundTruth": [
+      86,
+      87,
+      89,
+      100,
+      210
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 86,
+        "problemName": "Next Smaller Element",
+        "score": 0.8328068852424622
+      },
+      {
+        "serialNumber": 87,
+        "problemName": "Largest Rectangular Area in Histogram",
+        "score": 0.8316398859024048
+      },
+      {
+        "serialNumber": 91,
+        "problemName": "Special Stack",
+        "score": 0.8208567500114441
+      },
+      {
+        "serialNumber": 89,
+        "problemName": "Maximal Rectangle",
+        "score": 0.8114303350448608
+      },
+      {
+        "serialNumber": 83,
+        "problemName": "Sort a Stack",
+        "score": 0.8112068176269531
+      },
+      {
+        "serialNumber": 90,
+        "problemName": "N Stacks In An Array",
+        "score": 0.8089414238929749
+      },
+      {
+        "serialNumber": 210,
+        "problemName": "Maximum Rectangle",
+        "score": 0.8069561719894409
+      },
+      {
+        "serialNumber": 95,
+        "problemName": "Queue Reversal",
+        "score": 0.8028062582015991
+      },
+      {
+        "serialNumber": 97,
+        "problemName": "Reverse first K element of Queue",
+        "score": 0.8001207113265991
+      },
+      {
+        "serialNumber": 82,
+        "problemName": "Reverse a Stack",
+        "score": 0.7977617979049683
+      }
+    ]
+  },
+  {
+    "query": "how to solve the dutch national flag problem",
+    "groundTruth": [
+      16,
+      71
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 16,
+        "problemName": "Sort 0 1 2",
+        "score": 0.8676031231880188
+      },
+      {
+        "serialNumber": 71,
+        "problemName": "Sort linked list of 0s 1s 2s",
+        "score": 0.8336860537528992
+      },
+      {
+        "serialNumber": 57,
+        "problemName": "Quick Sort",
+        "score": 0.8166428804397583
+      },
+      {
+        "serialNumber": 90,
+        "problemName": "N Stacks In An Array",
+        "score": 0.8124408721923828
+      },
+      {
+        "serialNumber": 193,
+        "problemName": "Pizza with 3n Slices",
+        "score": 0.8099935054779053
+      },
+      {
+        "serialNumber": 18,
+        "problemName": "Move zeroes to end",
+        "score": 0.8076648712158203
+      },
+      {
+        "serialNumber": 188,
+        "problemName": "Minimum Sideways Jump",
+        "score": 0.8050180673599243
+      },
+      {
+        "serialNumber": 218,
+        "problemName": "Chocolate Distribution Problem",
+        "score": 0.804459273815155
+      },
+      {
+        "serialNumber": 95,
+        "problemName": "Queue Reversal",
+        "score": 0.804360568523407
+      },
+      {
+        "serialNumber": 15,
+        "problemName": "Triplet sum",
+        "score": 0.8037421703338623
+      }
+    ]
+  },
+  {
+    "query": "what's the difference between a min-heap and a max-heap?",
+    "groundTruth": [
+      140,
+      141,
+      142,
+      143,
+      144,
+      148,
+      150
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 142,
+        "problemName": "Merge two binary Max heaps",
+        "score": 0.8530896902084351
+      },
+      {
+        "serialNumber": 148,
+        "problemName": "Median in a stream",
+        "score": 0.8529995083808899
+      },
+      {
+        "serialNumber": 140,
+        "problemName": "Build Min Heap",
+        "score": 0.8348914384841919
+      },
+      {
+        "serialNumber": 141,
+        "problemName": "Kth Smallest",
+        "score": 0.8330415487289429
+      },
+      {
+        "serialNumber": 220,
+        "problemName": "Huffman Encoding",
+        "score": 0.8285797834396362
+      },
+      {
+        "serialNumber": 6,
+        "problemName": "Maximum and minimum of array",
+        "score": 0.8284541964530945
+      },
+      {
+        "serialNumber": 143,
+        "problemName": "Is Binary Tree Heap",
+        "score": 0.8265100717544556
+      },
+      {
+        "serialNumber": 149,
+        "problemName": "Smallest Range From K Sorted List",
+        "score": 0.8221297264099121
+      },
+      {
+        "serialNumber": 91,
+        "problemName": "Special Stack",
+        "score": 0.8203425407409668
+      },
+      {
+        "serialNumber": 146,
+        "problemName": "Merge K Sorted Arrays",
+        "score": 0.8202025890350342
+      }
+    ]
+  },
+  {
+    "query": "I need help with some easy bit manipulation questions",
+    "groundTruth": [
+      2,
+      4,
+      5,
+      11,
+      55
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 2,
+        "problemName": "Number of 1 Bits",
+        "score": 0.8376632332801819
+      },
+      {
+        "serialNumber": 55,
+        "problemName": "Check If Binary Representation of a Number is Palindrome",
+        "score": 0.826202392578125
+      },
+      {
+        "serialNumber": 4,
+        "problemName": "Complement of Base 10 Integer",
+        "score": 0.8191207647323608
+      },
+      {
+        "serialNumber": 5,
+        "problemName": "Power of Two",
+        "score": 0.8065472841262817
+      },
+      {
+        "serialNumber": 11,
+        "problemName": "Find Unique",
+        "score": 0.8003624677658081
+      },
+      {
+        "serialNumber": 50,
+        "problemName": "Modular Exponentiation",
+        "score": 0.7954120635986328
+      },
+      {
+        "serialNumber": 58,
+        "problemName": "Subsets",
+        "score": 0.7875205278396606
+      },
+      {
+        "serialNumber": 217,
+        "problemName": "Survive on Island",
+        "score": 0.7850149869918823
+      },
+      {
+        "serialNumber": 3,
+        "problemName": "Reverse Integer",
+        "score": 0.7833998203277588
+      },
+      {
+        "serialNumber": 40,
+        "problemName": "Reverse a String",
+        "score": 0.7819691896438599
+      }
+    ]
+  },
+  {
+    "query": "Explain recursion like I'm a beginner",
+    "groundTruth": [
+      5,
+      7,
+      51,
+      52,
+      53,
+      54,
+      64,
+      79,
+      81,
+      82,
+      83,
+      173,
+      174
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 83,
+        "problemName": "Sort a Stack",
+        "score": 0.8264123797416687
+      },
+      {
+        "serialNumber": 54,
+        "problemName": "Reverse Strings",
+        "score": 0.8237342834472656
+      },
+      {
+        "serialNumber": 50,
+        "problemName": "Modular Exponentiation",
+        "score": 0.8220191597938538
+      },
+      {
+        "serialNumber": 81,
+        "problemName": "Insert at bottom in Stack",
+        "score": 0.8207123875617981
+      },
+      {
+        "serialNumber": 79,
+        "problemName": "Delete Middle Element in Stack",
+        "score": 0.8175514936447144
+      },
+      {
+        "serialNumber": 51,
+        "problemName": "Fibonacci Number",
+        "score": 0.816603422164917
+      },
+      {
+        "serialNumber": 53,
+        "problemName": "Binary Search",
+        "score": 0.815643310546875
+      },
+      {
+        "serialNumber": 82,
+        "problemName": "Reverse a Stack",
+        "score": 0.8094649314880371
+      },
+      {
+        "serialNumber": 162,
+        "problemName": "Detect Cycle In A Directed Graph",
+        "score": 0.8050395250320435
+      },
+      {
+        "serialNumber": 160,
+        "problemName": "DFS Traversal",
+        "score": 0.8048102259635925
+      }
+    ]
+  },
+  {
+    "query": "when should I use a greedy algorithm?",
+    "groundTruth": [
+      99,
+      144,
+      166,
+      167,
+      168,
+      189,
+      203,
+      212,
+      213,
+      214,
+      215,
+      218,
+      219,
+      220,
+      221,
+      222
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 222,
+        "problemName": "Job Sequencing Problem",
+        "score": 0.850632905960083
+      },
+      {
+        "serialNumber": 214,
+        "problemName": "Activity Selection",
+        "score": 0.8397974967956543
+      },
+      {
+        "serialNumber": 221,
+        "problemName": "Fractional Knapsack",
+        "score": 0.8369894027709961
+      },
+      {
+        "serialNumber": 217,
+        "problemName": "Survive on Island",
+        "score": 0.8334347009658813
+      },
+      {
+        "serialNumber": 220,
+        "problemName": "Huffman Encoding",
+        "score": 0.8240292072296143
+      },
+      {
+        "serialNumber": 189,
+        "problemName": "Reducing Dishes",
+        "score": 0.8225035667419434
+      },
+      {
+        "serialNumber": 212,
+        "problemName": "N Meetings in One room",
+        "score": 0.8222154378890991
+      },
+      {
+        "serialNumber": 168,
+        "problemName": "Minimum Spanning Tree",
+        "score": 0.8213809132575989
+      },
+      {
+        "serialNumber": 99,
+        "problemName": "Circular tour",
+        "score": 0.8208861351013184
+      },
+      {
+        "serialNumber": 213,
+        "problemName": "Max Meetings in One Room",
+        "score": 0.8178448677062988
+      }
+    ]
+  },
+  {
+    "query": "what are the different ways to traverse a binary tree?",
+    "groundTruth": [
+      101,
+      102,
+      103,
+      104,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 112,
+        "problemName": "Boundary Traversal",
+        "score": 0.8511831760406494
+      },
+      {
+        "serialNumber": 116,
+        "problemName": "Right View",
+        "score": 0.8478573560714722
+      },
+      {
+        "serialNumber": 138,
+        "problemName": "Merge Two BSTs",
+        "score": 0.847108006477356
+      },
+      {
+        "serialNumber": 136,
+        "problemName": "Flatten BST To A Sorted List",
+        "score": 0.8461024761199951
+      },
+      {
+        "serialNumber": 111,
+        "problemName": "ZigZag Traversal",
+        "score": 0.8438177108764648
+      },
+      {
+        "serialNumber": 139,
+        "problemName": "Largest BST in Binary Tree",
+        "score": 0.8431355953216553
+      },
+      {
+        "serialNumber": 127,
+        "problemName": "Flatten a Tree to LL",
+        "score": 0.8426575660705566
+      },
+      {
+        "serialNumber": 131,
+        "problemName": "Predecessor And Successor In BST",
+        "score": 0.842462420463562
+      },
+      {
+        "serialNumber": 102,
+        "problemName": "Inorder Traversal",
+        "score": 0.8424153327941895
+      },
+      {
+        "serialNumber": 113,
+        "problemName": "Vertical Order Traversal",
+        "score": 0.8423571586608887
+      }
+    ]
+  },
+  {
+    "query": "what is the knapsack problem?",
+    "groundTruth": [
+      176,
+      179,
+      182,
+      195,
+      221
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 182,
+        "problemName": "0 1 Knapsack",
+        "score": 0.856132984161377
+      },
+      {
+        "serialNumber": 221,
+        "problemName": "Fractional Knapsack",
+        "score": 0.8399925827980042
+      },
+      {
+        "serialNumber": 195,
+        "problemName": "Partition Equal Subset Sum",
+        "score": 0.8150888681411743
+      },
+      {
+        "serialNumber": 176,
+        "problemName": "Minimum Elements",
+        "score": 0.808762788772583
+      },
+      {
+        "serialNumber": 222,
+        "problemName": "Job Sequencing Problem",
+        "score": 0.8057928085327148
+      },
+      {
+        "serialNumber": 179,
+        "problemName": "Cut Into Segments",
+        "score": 0.8042652606964111
+      },
+      {
+        "serialNumber": 177,
+        "problemName": "Maximum sum of non-adjacent elements",
+        "score": 0.8009388446807861
+      },
+      {
+        "serialNumber": 193,
+        "problemName": "Pizza with 3n Slices",
+        "score": 0.7989466190338135
+      },
+      {
+        "serialNumber": 205,
+        "problemName": "Best Time to Buy and Sell Stock IV",
+        "score": 0.7951703667640686
+      },
+      {
+        "serialNumber": 178,
+        "problemName": "House Robber II",
+        "score": 0.7948929667472839
+      }
+    ]
+  },
+  {
+    "query": "how do i check if a binary tree is a valid bst?",
+    "groundTruth": [
+      130,
+      139
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 130,
+        "problemName": "Validate BST",
+        "score": 0.9019442796707153
+      },
+      {
+        "serialNumber": 139,
+        "problemName": "Largest BST in Binary Tree",
+        "score": 0.8769298195838928
+      },
+      {
+        "serialNumber": 143,
+        "problemName": "Is Binary Tree Heap",
+        "score": 0.8715656995773315
+      },
+      {
+        "serialNumber": 108,
+        "problemName": "Balanced Tree Check",
+        "score": 0.8618075251579285
+      },
+      {
+        "serialNumber": 134,
+        "problemName": "Normal BST To Balanced BST",
+        "score": 0.8585240840911865
+      },
+      {
+        "serialNumber": 110,
+        "problemName": "Sum Tree",
+        "score": 0.8515112400054932
+      },
+      {
+        "serialNumber": 133,
+        "problemName": "LCA of Two Nodes In A BST",
+        "score": 0.8507895469665527
+      },
+      {
+        "serialNumber": 128,
+        "problemName": "Search In BST",
+        "score": 0.8497623205184937
+      },
+      {
+        "serialNumber": 136,
+        "problemName": "Flatten BST To A Sorted List",
+        "score": 0.8460801243782043
+      },
+      {
+        "serialNumber": 131,
+        "problemName": "Predecessor And Successor In BST",
+        "score": 0.8441950082778931
+      }
+    ]
+  },
+  {
+    "query": "explain longest common subsequence",
+    "groundTruth": [
+      207,
+      208
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 207,
+        "problemName": "Longest Common Subsequence",
+        "score": 0.8770022392272949
+      },
+      {
+        "serialNumber": 208,
+        "problemName": "Longest Palindromic Subsequence",
+        "score": 0.851914644241333
+      },
+      {
+        "serialNumber": 196,
+        "problemName": "Minimum Swaps to make Subsequences Increasing",
+        "score": 0.8258901834487915
+      },
+      {
+        "serialNumber": 153,
+        "problemName": "Longest Common Prefix",
+        "score": 0.8218007683753967
+      },
+      {
+        "serialNumber": 190,
+        "problemName": "Longest Increasing Subsequence",
+        "score": 0.8169041872024536
+      },
+      {
+        "serialNumber": 187,
+        "problemName": "Minimum Score Triangulation of Polygon",
+        "score": 0.8111690282821655
+      },
+      {
+        "serialNumber": 59,
+        "problemName": "Subsequences of String",
+        "score": 0.8100199103355408
+      },
+      {
+        "serialNumber": 177,
+        "problemName": "Maximum sum of non-adjacent elements",
+        "score": 0.8096538782119751
+      },
+      {
+        "serialNumber": 192,
+        "problemName": "Maximum Height by Stacking Cuboid",
+        "score": 0.8094404935836792
+      },
+      {
+        "serialNumber": 209,
+        "problemName": "Edit Distance",
+        "score": 0.8061468601226807
+      }
+    ]
+  },
+  {
+    "query": "what is a trie used for?",
+    "groundTruth": [
+      152,
+      153,
+      154,
+      220
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 154,
+        "problemName": "Implement a phone directory",
+        "score": 0.8514004945755005
+      },
+      {
+        "serialNumber": 152,
+        "problemName": "Implement Trie",
+        "score": 0.8415008783340454
+      },
+      {
+        "serialNumber": 153,
+        "problemName": "Longest Common Prefix",
+        "score": 0.8308946490287781
+      },
+      {
+        "serialNumber": 220,
+        "problemName": "Huffman Encoding",
+        "score": 0.8265306949615479
+      },
+      {
+        "serialNumber": 98,
+        "problemName": "First Non-Repeating character in stream",
+        "score": 0.7938342690467834
+      },
+      {
+        "serialNumber": 121,
+        "problemName": "K Sum paths",
+        "score": 0.7927602529525757
+      },
+      {
+        "serialNumber": 124,
+        "problemName": "Construct Tree from Inorder & Preorder",
+        "score": 0.7893282175064087
+      },
+      {
+        "serialNumber": 118,
+        "problemName": "Diagonal Traversal",
+        "score": 0.7867494821548462
+      },
+      {
+        "serialNumber": 139,
+        "problemName": "Largest BST in Binary Tree",
+        "score": 0.7858091592788696
+      },
+      {
+        "serialNumber": 192,
+        "problemName": "Maximum Height by Stacking Cuboid",
+        "score": 0.7836371660232544
+      }
+    ]
+  },
+  {
+    "query": "when to use dijkstra vs bellman-ford for shortest path",
+    "groundTruth": [
+      164,
+      165,
+      166,
+      172
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 172,
+        "problemName": "Bellman Ford",
+        "score": 0.8634999990463257
+      },
+      {
+        "serialNumber": 166,
+        "problemName": "Dijkstra's shortest path",
+        "score": 0.8566908240318298
+      },
+      {
+        "serialNumber": 165,
+        "problemName": "Shortest path in Weighted Directed Acyclic Graph",
+        "score": 0.8546802997589111
+      },
+      {
+        "serialNumber": 164,
+        "problemName": "Shortest path in an unweighted graph",
+        "score": 0.8275947570800781
+      },
+      {
+        "serialNumber": 162,
+        "problemName": "Detect Cycle In A Directed Graph",
+        "score": 0.7974594831466675
+      },
+      {
+        "serialNumber": 167,
+        "problemName": "Prim's MST",
+        "score": 0.7927525639533997
+      },
+      {
+        "serialNumber": 187,
+        "problemName": "Minimum Score Triangulation of Polygon",
+        "score": 0.7924248576164246
+      },
+      {
+        "serialNumber": 161,
+        "problemName": "Cycle Detection In Undirected Graph",
+        "score": 0.7914883494377136
+      },
+      {
+        "serialNumber": 168,
+        "problemName": "Minimum Spanning Tree",
+        "score": 0.7912803292274475
+      },
+      {
+        "serialNumber": 206,
+        "problemName": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "score": 0.7892554998397827
+      }
+    ]
+  },
+  {
+    "query": "how to find the maximum sum of a contiguous subarray",
+    "groundTruth": [
+      145,
+      121
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 177,
+        "problemName": "Maximum sum of non-adjacent elements",
+        "score": 0.8469446897506714
+      },
+      {
+        "serialNumber": 145,
+        "problemName": "K-th Largest Sum Subarray",
+        "score": 0.8445963859558105
+      },
+      {
+        "serialNumber": 203,
+        "problemName": "Best Time to Buy and Sell Stock II",
+        "score": 0.8398462533950806
+      },
+      {
+        "serialNumber": 202,
+        "problemName": "Best Time to Buy and Sell Stock",
+        "score": 0.836422324180603
+      },
+      {
+        "serialNumber": 193,
+        "problemName": "Pizza with 3n Slices",
+        "score": 0.8326519727706909
+      },
+      {
+        "serialNumber": 178,
+        "problemName": "House Robber II",
+        "score": 0.8303736448287964
+      },
+      {
+        "serialNumber": 100,
+        "problemName": "Sliding Window Maximum",
+        "score": 0.8303002119064331
+      },
+      {
+        "serialNumber": 189,
+        "problemName": "Reducing Dishes",
+        "score": 0.826485276222229
+      },
+      {
+        "serialNumber": 7,
+        "problemName": "Sum of Array",
+        "score": 0.823214054107666
+      },
+      {
+        "serialNumber": 204,
+        "problemName": "Best Time to Buy and Sell Stock III",
+        "score": 0.8221365213394165
+      }
+    ]
+  },
+  {
+    "query": "how to solve the house robber problem",
+    "groundTruth": [
+      123,
+      177,
+      178,
+      193
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 178,
+        "problemName": "House Robber II",
+        "score": 0.8891968727111816
+      },
+      {
+        "serialNumber": 193,
+        "problemName": "Pizza with 3n Slices",
+        "score": 0.8751741051673889
+      },
+      {
+        "serialNumber": 177,
+        "problemName": "Maximum sum of non-adjacent elements",
+        "score": 0.8728021383285522
+      },
+      {
+        "serialNumber": 123,
+        "problemName": "Max Sum of Non-Adjacent Nodes",
+        "score": 0.8521842956542969
+      },
+      {
+        "serialNumber": 182,
+        "problemName": "0 1 Knapsack",
+        "score": 0.8367051482200623
+      },
+      {
+        "serialNumber": 206,
+        "problemName": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "score": 0.8276118040084839
+      },
+      {
+        "serialNumber": 203,
+        "problemName": "Best Time to Buy and Sell Stock II",
+        "score": 0.825225830078125
+      },
+      {
+        "serialNumber": 175,
+        "problemName": "Min Cost Climbing Stairs",
+        "score": 0.8234095573425293
+      },
+      {
+        "serialNumber": 204,
+        "problemName": "Best Time to Buy and Sell Stock III",
+        "score": 0.8230805993080139
+      },
+      {
+        "serialNumber": 200,
+        "problemName": "Guess Number Higher or Lower II",
+        "score": 0.8225530385971069
+      }
+    ]
+  },
+  {
+    "query": "how to print a matrix in a spiral",
+    "groundTruth": [
+      22,
+      23,
+      24
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 23,
+        "problemName": "Spiral Print",
+        "score": 0.9019700288772583
+      },
+      {
+        "serialNumber": 22,
+        "problemName": "Print Like A Wave",
+        "score": 0.8817869424819946
+      },
+      {
+        "serialNumber": 155,
+        "problemName": "Rat In A Maze",
+        "score": 0.8438944816589355
+      },
+      {
+        "serialNumber": 63,
+        "problemName": "Rat in a Maze Problem",
+        "score": 0.834442675113678
+      },
+      {
+        "serialNumber": 24,
+        "problemName": "Rotate a Matrix by 90 degrees",
+        "score": 0.8344186544418335
+      },
+      {
+        "serialNumber": 156,
+        "problemName": "N-Queens",
+        "score": 0.8281763792037964
+      },
+      {
+        "serialNumber": 158,
+        "problemName": "Creating and Printing",
+        "score": 0.8263472318649292
+      },
+      {
+        "serialNumber": 88,
+        "problemName": "The Celebrity Problem",
+        "score": 0.8213108777999878
+      },
+      {
+        "serialNumber": 118,
+        "problemName": "Diagonal Traversal",
+        "score": 0.8088333606719971
+      },
+      {
+        "serialNumber": 111,
+        "problemName": "ZigZag Traversal",
+        "score": 0.807830810546875
+      }
+    ]
+  },
+  {
+    "query": "how can a heap help me find the kth smallest or largest element?",
+    "groundTruth": [
+      132,
+      141,
+      145
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 141,
+        "problemName": "Kth Smallest",
+        "score": 0.9039599895477295
+      },
+      {
+        "serialNumber": 145,
+        "problemName": "K-th Largest Sum Subarray",
+        "score": 0.878472626209259
+      },
+      {
+        "serialNumber": 149,
+        "problemName": "Smallest Range From K Sorted List",
+        "score": 0.8692224025726318
+      },
+      {
+        "serialNumber": 148,
+        "problemName": "Median in a stream",
+        "score": 0.8618226051330566
+      },
+      {
+        "serialNumber": 146,
+        "problemName": "Merge K Sorted Arrays",
+        "score": 0.8598385453224182
+      },
+      {
+        "serialNumber": 147,
+        "problemName": "Merge k sorted lists",
+        "score": 0.8487693071365356
+      },
+      {
+        "serialNumber": 132,
+        "problemName": "Find K-th smallest Element in BST",
+        "score": 0.8403081893920898
+      },
+      {
+        "serialNumber": 215,
+        "problemName": "Shop in Candy Store",
+        "score": 0.8390929102897644
+      },
+      {
+        "serialNumber": 142,
+        "problemName": "Merge two binary Max heaps",
+        "score": 0.8279373645782471
+      },
+      {
+        "serialNumber": 97,
+        "problemName": "Reverse first K element of Queue",
+        "score": 0.826691746711731
+      }
+    ]
+  },
+  {
+    "query": "best way to check if a string is a palindrome",
+    "groundTruth": [
+      41,
+      42,
+      55,
+      73,
+      208
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 41,
+        "problemName": "Check Palindrome",
+        "score": 0.8752844333648682
+      },
+      {
+        "serialNumber": 42,
+        "problemName": "Valid Palindrome",
+        "score": 0.848730742931366
+      },
+      {
+        "serialNumber": 73,
+        "problemName": "Palindrome Linked List",
+        "score": 0.8398523330688477
+      },
+      {
+        "serialNumber": 208,
+        "problemName": "Longest Palindromic Subsequence",
+        "score": 0.8383694887161255
+      },
+      {
+        "serialNumber": 55,
+        "problemName": "Check If Binary Representation of a Number is Palindrome",
+        "score": 0.8350698947906494
+      },
+      {
+        "serialNumber": 54,
+        "problemName": "Reverse Strings",
+        "score": 0.8308631777763367
+      },
+      {
+        "serialNumber": 40,
+        "problemName": "Reverse a String",
+        "score": 0.8186113834381104
+      },
+      {
+        "serialNumber": 39,
+        "problemName": "Length of String",
+        "score": 0.804985761642456
+      },
+      {
+        "serialNumber": 46,
+        "problemName": "Remove all adjacent duplicates",
+        "score": 0.8039673566818237
+      },
+      {
+        "serialNumber": 85,
+        "problemName": "Minimum bracket Reversal",
+        "score": 0.8036197423934937
+      }
+    ]
+  },
+  {
+    "query": "how to merge sorted data structures?",
+    "groundTruth": [
+      17,
+      56,
+      72,
+      76,
+      77,
+      138,
+      146,
+      147
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 138,
+        "problemName": "Merge Two BSTs",
+        "score": 0.853447675704956
+      },
+      {
+        "serialNumber": 146,
+        "problemName": "Merge K Sorted Arrays",
+        "score": 0.8435981273651123
+      },
+      {
+        "serialNumber": 142,
+        "problemName": "Merge two binary Max heaps",
+        "score": 0.8391493558883667
+      },
+      {
+        "serialNumber": 56,
+        "problemName": "Merge Sort",
+        "score": 0.8333001136779785
+      },
+      {
+        "serialNumber": 72,
+        "problemName": "Merge Two Sorted Linked Lists",
+        "score": 0.8287829160690308
+      },
+      {
+        "serialNumber": 147,
+        "problemName": "Merge k sorted lists",
+        "score": 0.827804684638977
+      },
+      {
+        "serialNumber": 77,
+        "problemName": "Flatten A Linked List",
+        "score": 0.8218687772750854
+      },
+      {
+        "serialNumber": 83,
+        "problemName": "Sort a Stack",
+        "score": 0.8217352032661438
+      },
+      {
+        "serialNumber": 17,
+        "problemName": "Merge 2 sorted arrays",
+        "score": 0.821022093296051
+      },
+      {
+        "serialNumber": 76,
+        "problemName": "Merge Sort Linked List",
+        "score": 0.8168429136276245
+      }
+    ]
+  },
+  {
+    "query": "what are prefix sum problems?",
+    "groundTruth": [
+      30,
+      121,
+      145
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 145,
+        "problemName": "K-th Largest Sum Subarray",
+        "score": 0.8438924551010132
+      },
+      {
+        "serialNumber": 30,
+        "problemName": "Find Pivot Index",
+        "score": 0.8367919921875
+      },
+      {
+        "serialNumber": 121,
+        "problemName": "K Sum paths",
+        "score": 0.8342736959457397
+      },
+      {
+        "serialNumber": 7,
+        "problemName": "Sum of Array",
+        "score": 0.8196914196014404
+      },
+      {
+        "serialNumber": 203,
+        "problemName": "Best Time to Buy and Sell Stock II",
+        "score": 0.816235363483429
+      },
+      {
+        "serialNumber": 201,
+        "problemName": "Minimum Cost Tree From Leaf Values",
+        "score": 0.8128647804260254
+      },
+      {
+        "serialNumber": 153,
+        "problemName": "Longest Common Prefix",
+        "score": 0.8114141821861267
+      },
+      {
+        "serialNumber": 206,
+        "problemName": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "score": 0.8106279969215393
+      },
+      {
+        "serialNumber": 220,
+        "problemName": "Huffman Encoding",
+        "score": 0.8090167045593262
+      },
+      {
+        "serialNumber": 193,
+        "problemName": "Pizza with 3n Slices",
+        "score": 0.8082003593444824
+      }
+    ]
+  },
+  {
+    "query": "how to solve matrix traversal problems?",
+    "groundTruth": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 63,
+        "problemName": "Rat in a Maze Problem",
+        "score": 0.8594909906387329
+      },
+      {
+        "serialNumber": 155,
+        "problemName": "Rat In A Maze",
+        "score": 0.8585614562034607
+      },
+      {
+        "serialNumber": 23,
+        "problemName": "Spiral Print",
+        "score": 0.8494131565093994
+      },
+      {
+        "serialNumber": 89,
+        "problemName": "Maximal Rectangle",
+        "score": 0.8446248769760132
+      },
+      {
+        "serialNumber": 210,
+        "problemName": "Maximum Rectangle",
+        "score": 0.8400329351425171
+      },
+      {
+        "serialNumber": 22,
+        "problemName": "Print Like A Wave",
+        "score": 0.8392976522445679
+      },
+      {
+        "serialNumber": 160,
+        "problemName": "DFS Traversal",
+        "score": 0.8367717266082764
+      },
+      {
+        "serialNumber": 88,
+        "problemName": "The Celebrity Problem",
+        "score": 0.8330260515213013
+      },
+      {
+        "serialNumber": 156,
+        "problemName": "N-Queens",
+        "score": 0.8285621404647827
+      },
+      {
+        "serialNumber": 118,
+        "problemName": "Diagonal Traversal",
+        "score": 0.8262159824371338
+      }
+    ]
+  },
+  {
+    "query": "what are some common linked list problems?",
+    "groundTruth": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 70,
+        "problemName": "Remove Duplicates From an Unsorted Linked List",
+        "score": 0.8382370471954346
+      },
+      {
+        "serialNumber": 76,
+        "problemName": "Merge Sort Linked List",
+        "score": 0.8360958099365234
+      },
+      {
+        "serialNumber": 147,
+        "problemName": "Merge k sorted lists",
+        "score": 0.8221203684806824
+      },
+      {
+        "serialNumber": 66,
+        "problemName": "Reverse List In K Groups",
+        "score": 0.8204810619354248
+      },
+      {
+        "serialNumber": 64,
+        "problemName": "Reverse a Linked List",
+        "score": 0.8201947212219238
+      },
+      {
+        "serialNumber": 69,
+        "problemName": "Remove duplicates from a sorted Doubly Linked List",
+        "score": 0.8194963932037354
+      },
+      {
+        "serialNumber": 72,
+        "problemName": "Merge Two Sorted Linked Lists",
+        "score": 0.8164486885070801
+      },
+      {
+        "serialNumber": 74,
+        "problemName": "Add Number Linked Lists",
+        "score": 0.8157179355621338
+      },
+      {
+        "serialNumber": 68,
+        "problemName": "Detect and Remove Loop",
+        "score": 0.8144993782043457
+      },
+      {
+        "serialNumber": 65,
+        "problemName": "Middle Of Linked List",
+        "score": 0.8112563490867615
+      }
+    ]
+  },
+  {
+    "query": "how to work with frequency counters?",
+    "groundTruth": [
+      28,
+      44,
+      98,
+      151
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 98,
+        "problemName": "First Non-Repeating character in stream",
+        "score": 0.7884665131568909
+      },
+      {
+        "serialNumber": 151,
+        "problemName": "Maximum Frequency Number",
+        "score": 0.7838051319122314
+      },
+      {
+        "serialNumber": 28,
+        "problemName": "Number of occurrence",
+        "score": 0.7779500484466553
+      },
+      {
+        "serialNumber": 44,
+        "problemName": "Maximum occurring character",
+        "score": 0.7774133682250977
+      },
+      {
+        "serialNumber": 2,
+        "problemName": "Number of 1 Bits",
+        "score": 0.7765443325042725
+      },
+      {
+        "serialNumber": 171,
+        "problemName": "Count Strongly Connected Components",
+        "score": 0.7752029895782471
+      },
+      {
+        "serialNumber": 49,
+        "problemName": "Count primes",
+        "score": 0.7697120904922485
+      },
+      {
+        "serialNumber": 105,
+        "problemName": "Count Leaf Nodes",
+        "score": 0.7653356790542603
+      },
+      {
+        "serialNumber": 220,
+        "problemName": "Huffman Encoding",
+        "score": 0.7646363973617554
+      },
+      {
+        "serialNumber": 148,
+        "problemName": "Median in a stream",
+        "score": 0.7626250982284546
+      }
+    ]
+  },
+  {
+    "query": "what are union find problems?",
+    "groundTruth": [
+      161,
+      168,
+      222
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 168,
+        "problemName": "Minimum Spanning Tree",
+        "score": 0.8312057256698608
+      },
+      {
+        "serialNumber": 161,
+        "problemName": "Cycle Detection In Undirected Graph",
+        "score": 0.8227598667144775
+      },
+      {
+        "serialNumber": 222,
+        "problemName": "Job Sequencing Problem",
+        "score": 0.81553053855896
+      },
+      {
+        "serialNumber": 169,
+        "problemName": "Bridges In A Graph",
+        "score": 0.8146567940711975
+      },
+      {
+        "serialNumber": 170,
+        "problemName": "Articulation Points in Graphs",
+        "score": 0.8112380504608154
+      },
+      {
+        "serialNumber": 220,
+        "problemName": "Huffman Encoding",
+        "score": 0.8021773099899292
+      },
+      {
+        "serialNumber": 88,
+        "problemName": "The Celebrity Problem",
+        "score": 0.8015046119689941
+      },
+      {
+        "serialNumber": 171,
+        "problemName": "Count Strongly Connected Components",
+        "score": 0.8003222942352295
+      },
+      {
+        "serialNumber": 167,
+        "problemName": "Prim's MST",
+        "score": 0.7988470792770386
+      },
+      {
+        "serialNumber": 89,
+        "problemName": "Maximal Rectangle",
+        "score": 0.7951098084449768
+      }
+    ]
+  },
+  {
+    "query": "how to solve stock trading problems?",
+    "groundTruth": [
+      202,
+      203,
+      204,
+      205,
+      206
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 205,
+        "problemName": "Best Time to Buy and Sell Stock IV",
+        "score": 0.8199940919876099
+      },
+      {
+        "serialNumber": 206,
+        "problemName": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "score": 0.8149936199188232
+      },
+      {
+        "serialNumber": 202,
+        "problemName": "Best Time to Buy and Sell Stock",
+        "score": 0.8075724840164185
+      },
+      {
+        "serialNumber": 204,
+        "problemName": "Best Time to Buy and Sell Stock III",
+        "score": 0.8060620427131653
+      },
+      {
+        "serialNumber": 203,
+        "problemName": "Best Time to Buy and Sell Stock II",
+        "score": 0.7987805604934692
+      },
+      {
+        "serialNumber": 217,
+        "problemName": "Survive on Island",
+        "score": 0.7936349511146545
+      },
+      {
+        "serialNumber": 187,
+        "problemName": "Minimum Score Triangulation of Polygon",
+        "score": 0.7922050952911377
+      },
+      {
+        "serialNumber": 99,
+        "problemName": "Circular tour",
+        "score": 0.7843256592750549
+      },
+      {
+        "serialNumber": 196,
+        "problemName": "Minimum Swaps to make Subsequences Increasing",
+        "score": 0.7831249833106995
+      },
+      {
+        "serialNumber": 201,
+        "problemName": "Minimum Cost Tree From Leaf Values",
+        "score": 0.7818377017974854
+      }
+    ]
+  },
+  {
+    "query": "what are minimum spanning tree algorithms?",
+    "groundTruth": [
+      167,
+      168
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 168,
+        "problemName": "Minimum Spanning Tree",
+        "score": 0.8643704652786255
+      },
+      {
+        "serialNumber": 167,
+        "problemName": "Prim's MST",
+        "score": 0.8475441932678223
+      },
+      {
+        "serialNumber": 166,
+        "problemName": "Dijkstra's shortest path",
+        "score": 0.8212969303131104
+      },
+      {
+        "serialNumber": 220,
+        "problemName": "Huffman Encoding",
+        "score": 0.8131751418113708
+      },
+      {
+        "serialNumber": 219,
+        "problemName": "Minimum Cost of ropes",
+        "score": 0.8103583455085754
+      },
+      {
+        "serialNumber": 144,
+        "problemName": "Minimum Cost of ropes",
+        "score": 0.808708906173706
+      },
+      {
+        "serialNumber": 146,
+        "problemName": "Merge K Sorted Arrays",
+        "score": 0.8087061643600464
+      },
+      {
+        "serialNumber": 169,
+        "problemName": "Bridges In A Graph",
+        "score": 0.8061520457267761
+      },
+      {
+        "serialNumber": 165,
+        "problemName": "Shortest path in Weighted Directed Acyclic Graph",
+        "score": 0.8021523356437683
+      },
+      {
+        "serialNumber": 164,
+        "problemName": "Shortest path in an unweighted graph",
+        "score": 0.8004285097122192
+      }
+    ]
+  },
+  {
+    "query": "how to detect bridges and articulation points?",
+    "groundTruth": [
+      169,
+      170
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 170,
+        "problemName": "Articulation Points in Graphs",
+        "score": 0.9018292427062988
+      },
+      {
+        "serialNumber": 169,
+        "problemName": "Bridges In A Graph",
+        "score": 0.8844603300094604
+      },
+      {
+        "serialNumber": 171,
+        "problemName": "Count Strongly Connected Components",
+        "score": 0.8480702638626099
+      },
+      {
+        "serialNumber": 161,
+        "problemName": "Cycle Detection In Undirected Graph",
+        "score": 0.8377529382705688
+      },
+      {
+        "serialNumber": 162,
+        "problemName": "Detect Cycle In A Directed Graph",
+        "score": 0.825082540512085
+      },
+      {
+        "serialNumber": 163,
+        "problemName": "Topological Sort",
+        "score": 0.8181899189949036
+      },
+      {
+        "serialNumber": 160,
+        "problemName": "DFS Traversal",
+        "score": 0.8132190704345703
+      },
+      {
+        "serialNumber": 168,
+        "problemName": "Minimum Spanning Tree",
+        "score": 0.8109122514724731
+      },
+      {
+        "serialNumber": 158,
+        "problemName": "Creating and Printing",
+        "score": 0.8101340532302856
+      },
+      {
+        "serialNumber": 167,
+        "problemName": "Prim's MST",
+        "score": 0.8078988790512085
+      }
+    ]
+  },
+  {
+    "query": "what are strongly connected components?",
+    "groundTruth": [
+      171
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 171,
+        "problemName": "Count Strongly Connected Components",
+        "score": 0.8695955276489258
+      },
+      {
+        "serialNumber": 169,
+        "problemName": "Bridges In A Graph",
+        "score": 0.8295576572418213
+      },
+      {
+        "serialNumber": 170,
+        "problemName": "Articulation Points in Graphs",
+        "score": 0.8287282586097717
+      },
+      {
+        "serialNumber": 162,
+        "problemName": "Detect Cycle In A Directed Graph",
+        "score": 0.8157083988189697
+      },
+      {
+        "serialNumber": 163,
+        "problemName": "Topological Sort",
+        "score": 0.7979300618171692
+      },
+      {
+        "serialNumber": 168,
+        "problemName": "Minimum Spanning Tree",
+        "score": 0.7943350076675415
+      },
+      {
+        "serialNumber": 161,
+        "problemName": "Cycle Detection In Undirected Graph",
+        "score": 0.793610692024231
+      },
+      {
+        "serialNumber": 160,
+        "problemName": "DFS Traversal",
+        "score": 0.7922878265380859
+      },
+      {
+        "serialNumber": 172,
+        "problemName": "Bellman Ford",
+        "score": 0.7901636362075806
+      },
+      {
+        "serialNumber": 88,
+        "problemName": "The Celebrity Problem",
+        "score": 0.7880555987358093
+      }
+    ]
+  },
+  {
+    "query": "how to solve string matching problems?",
+    "groundTruth": [
+      45,
+      48,
+      153,
+      211
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 211,
+        "problemName": "Wildcard Pattern Matching",
+        "score": 0.8297607898712158
+      },
+      {
+        "serialNumber": 98,
+        "problemName": "First Non-Repeating character in stream",
+        "score": 0.8161412477493286
+      },
+      {
+        "serialNumber": 208,
+        "problemName": "Longest Palindromic Subsequence",
+        "score": 0.8128855228424072
+      },
+      {
+        "serialNumber": 153,
+        "problemName": "Longest Common Prefix",
+        "score": 0.8116967678070068
+      },
+      {
+        "serialNumber": 41,
+        "problemName": "Check Palindrome",
+        "score": 0.8113806247711182
+      },
+      {
+        "serialNumber": 48,
+        "problemName": "Permutation in String",
+        "score": 0.8108733296394348
+      },
+      {
+        "serialNumber": 84,
+        "problemName": "Redundant Brackets",
+        "score": 0.8102656602859497
+      },
+      {
+        "serialNumber": 45,
+        "problemName": "Remove all occurrences of substring",
+        "score": 0.8082650899887085
+      },
+      {
+        "serialNumber": 39,
+        "problemName": "Length of String",
+        "score": 0.8069610595703125
+      },
+      {
+        "serialNumber": 150,
+        "problemName": "Rearrange string",
+        "score": 0.8066308498382568
+      }
+    ]
+  },
+  {
+    "query": "what are topological sort problems?",
+    "groundTruth": [
+      162,
+      163,
+      165
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 163,
+        "problemName": "Topological Sort",
+        "score": 0.8736227750778198
+      },
+      {
+        "serialNumber": 165,
+        "problemName": "Shortest path in Weighted Directed Acyclic Graph",
+        "score": 0.8502528667449951
+      },
+      {
+        "serialNumber": 171,
+        "problemName": "Count Strongly Connected Components",
+        "score": 0.8315355777740479
+      },
+      {
+        "serialNumber": 162,
+        "problemName": "Detect Cycle In A Directed Graph",
+        "score": 0.8221131563186646
+      },
+      {
+        "serialNumber": 170,
+        "problemName": "Articulation Points in Graphs",
+        "score": 0.8177672624588013
+      },
+      {
+        "serialNumber": 222,
+        "problemName": "Job Sequencing Problem",
+        "score": 0.8115733861923218
+      },
+      {
+        "serialNumber": 169,
+        "problemName": "Bridges In A Graph",
+        "score": 0.8078855276107788
+      },
+      {
+        "serialNumber": 83,
+        "problemName": "Sort a Stack",
+        "score": 0.807293176651001
+      },
+      {
+        "serialNumber": 168,
+        "problemName": "Minimum Spanning Tree",
+        "score": 0.8068263530731201
+      },
+      {
+        "serialNumber": 214,
+        "problemName": "Activity Selection",
+        "score": 0.8065452575683594
+      }
+    ]
+  },
+  {
+    "query": "how to construct binary trees?",
+    "groundTruth": [
+      124,
+      125,
+      135,
+      199
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 124,
+        "problemName": "Construct Tree from Inorder & Preorder",
+        "score": 0.8451863527297974
+      },
+      {
+        "serialNumber": 125,
+        "problemName": "Binary Tree from Inorder and Postorder",
+        "score": 0.843675971031189
+      },
+      {
+        "serialNumber": 134,
+        "problemName": "Normal BST To Balanced BST",
+        "score": 0.8426471948623657
+      },
+      {
+        "serialNumber": 135,
+        "problemName": "BST from Preorder Traversal",
+        "score": 0.8393945097923279
+      },
+      {
+        "serialNumber": 138,
+        "problemName": "Merge Two BSTs",
+        "score": 0.8284892439842224
+      },
+      {
+        "serialNumber": 139,
+        "problemName": "Largest BST in Binary Tree",
+        "score": 0.8268311023712158
+      },
+      {
+        "serialNumber": 143,
+        "problemName": "Is Binary Tree Heap",
+        "score": 0.8241201043128967
+      },
+      {
+        "serialNumber": 105,
+        "problemName": "Count Leaf Nodes",
+        "score": 0.8198710680007935
+      },
+      {
+        "serialNumber": 142,
+        "problemName": "Merge two binary Max heaps",
+        "score": 0.8196831345558167
+      },
+      {
+        "serialNumber": 108,
+        "problemName": "Balanced Tree Check",
+        "score": 0.8190726041793823
+      }
+    ]
+  },
+  {
+    "query": "what are inorder traversal applications?",
+    "groundTruth": [
+      102,
+      132,
+      134,
+      136,
+      138
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 102,
+        "problemName": "Inorder Traversal",
+        "score": 0.8449214696884155
+      },
+      {
+        "serialNumber": 134,
+        "problemName": "Normal BST To Balanced BST",
+        "score": 0.8402632474899292
+      },
+      {
+        "serialNumber": 138,
+        "problemName": "Merge Two BSTs",
+        "score": 0.838952898979187
+      },
+      {
+        "serialNumber": 136,
+        "problemName": "Flatten BST To A Sorted List",
+        "score": 0.8355808258056641
+      },
+      {
+        "serialNumber": 131,
+        "problemName": "Predecessor And Successor In BST",
+        "score": 0.8293957114219666
+      },
+      {
+        "serialNumber": 115,
+        "problemName": "Bottom View",
+        "score": 0.8271864652633667
+      },
+      {
+        "serialNumber": 132,
+        "problemName": "Find K-th smallest Element in BST",
+        "score": 0.8253641128540039
+      },
+      {
+        "serialNumber": 113,
+        "problemName": "Vertical Order Traversal",
+        "score": 0.825086236000061
+      },
+      {
+        "serialNumber": 125,
+        "problemName": "Binary Tree from Inorder and Postorder",
+        "score": 0.823286771774292
+      },
+      {
+        "serialNumber": 139,
+        "problemName": "Largest BST in Binary Tree",
+        "score": 0.821184515953064
+      }
+    ]
+  },
+  {
+    "query": "how to solve subsequence problems?",
+    "groundTruth": [
+      59,
+      190,
+      191,
+      197,
+      198,
+      207,
+      208
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 59,
+        "problemName": "Subsequences of String",
+        "score": 0.8421884775161743
+      },
+      {
+        "serialNumber": 208,
+        "problemName": "Longest Palindromic Subsequence",
+        "score": 0.8294287323951721
+      },
+      {
+        "serialNumber": 196,
+        "problemName": "Minimum Swaps to make Subsequences Increasing",
+        "score": 0.8284170627593994
+      },
+      {
+        "serialNumber": 207,
+        "problemName": "Longest Common Subsequence",
+        "score": 0.8250596523284912
+      },
+      {
+        "serialNumber": 193,
+        "problemName": "Pizza with 3n Slices",
+        "score": 0.817706823348999
+      },
+      {
+        "serialNumber": 177,
+        "problemName": "Maximum sum of non-adjacent elements",
+        "score": 0.817186713218689
+      },
+      {
+        "serialNumber": 187,
+        "problemName": "Minimum Score Triangulation of Polygon",
+        "score": 0.8154317140579224
+      },
+      {
+        "serialNumber": 190,
+        "problemName": "Longest Increasing Subsequence",
+        "score": 0.8137519955635071
+      },
+      {
+        "serialNumber": 192,
+        "problemName": "Maximum Height by Stacking Cuboid",
+        "score": 0.8082809448242188
+      },
+      {
+        "serialNumber": 211,
+        "problemName": "Wildcard Pattern Matching",
+        "score": 0.8068588972091675
+      }
+    ]
+  },
+  {
+    "query": "what are interval scheduling problems?",
+    "groundTruth": [
+      212,
+      213,
+      214
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 214,
+        "problemName": "Activity Selection",
+        "score": 0.8135823607444763
+      },
+      {
+        "serialNumber": 212,
+        "problemName": "N Meetings in One room",
+        "score": 0.8094931840896606
+      },
+      {
+        "serialNumber": 222,
+        "problemName": "Job Sequencing Problem",
+        "score": 0.8094596862792969
+      },
+      {
+        "serialNumber": 213,
+        "problemName": "Max Meetings in One Room",
+        "score": 0.8046647310256958
+      },
+      {
+        "serialNumber": 205,
+        "problemName": "Best Time to Buy and Sell Stock IV",
+        "score": 0.7926393747329712
+      },
+      {
+        "serialNumber": 187,
+        "problemName": "Minimum Score Triangulation of Polygon",
+        "score": 0.7916274666786194
+      },
+      {
+        "serialNumber": 196,
+        "problemName": "Minimum Swaps to make Subsequences Increasing",
+        "score": 0.7894390821456909
+      },
+      {
+        "serialNumber": 189,
+        "problemName": "Reducing Dishes",
+        "score": 0.7872174382209778
+      },
+      {
+        "serialNumber": 182,
+        "problemName": "0 1 Knapsack",
+        "score": 0.7865462899208069
+      },
+      {
+        "serialNumber": 217,
+        "problemName": "Survive on Island",
+        "score": 0.7858929634094238
+      }
+    ]
+  },
+  {
+    "query": "how to solve partition problems?",
+    "groundTruth": [
+      57,
+      195
+    ],
+    "retrieved": [
+      {
+        "serialNumber": 195,
+        "problemName": "Partition Equal Subset Sum",
+        "score": 0.823917031288147
+      },
+      {
+        "serialNumber": 35,
+        "problemName": "Painter’s Partition Problem",
+        "score": 0.8114729523658752
+      },
+      {
+        "serialNumber": 193,
+        "problemName": "Pizza with 3n Slices",
+        "score": 0.8103560209274292
+      },
+      {
+        "serialNumber": 222,
+        "problemName": "Job Sequencing Problem",
+        "score": 0.8016934394836426
+      },
+      {
+        "serialNumber": 221,
+        "problemName": "Fractional Knapsack",
+        "score": 0.8007032871246338
+      },
+      {
+        "serialNumber": 218,
+        "problemName": "Chocolate Distribution Problem",
+        "score": 0.7992900609970093
+      },
+      {
+        "serialNumber": 150,
+        "problemName": "Rearrange string",
+        "score": 0.798663854598999
+      },
+      {
+        "serialNumber": 33,
+        "problemName": "Book Allocation Problem",
+        "score": 0.7978036403656006
+      },
+      {
+        "serialNumber": 215,
+        "problemName": "Shop in Candy Store",
+        "score": 0.7954995632171631
+      },
+      {
+        "serialNumber": 187,
+        "problemName": "Minimum Score Triangulation of Polygon",
+        "score": 0.795425295829773
+      }
+    ]
+  }
+]

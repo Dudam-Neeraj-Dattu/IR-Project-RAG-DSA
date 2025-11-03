@@ -8,7 +8,8 @@
       "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js",
       "seed:import": "node src/seed/seeder.js -i",
       "seed:destroy": "node src/seed/seeder.js -d",
-      "seed:embeddings": "node src/seed/generate_embeddings.js"
+      "seed:embeddings": "node src/seed/generate_embeddings.js",
+      "eval:retrieval": "node src/testing/run_retrieval.js"
    },
    "author": "Neerajdattu Dudam",
    "license": "ISC",
